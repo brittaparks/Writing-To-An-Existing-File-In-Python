@@ -3,3 +3,6 @@
 
 with open("Python_code_1.txt", "a") as candy:
     candy.write("\nThis should make the third line")
+
+#I used the word "candy" to demonstrate the lack of importannce of the chosen word, 
+#rather the importance of consistency in its use.
